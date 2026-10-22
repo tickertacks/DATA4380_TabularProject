@@ -1,0 +1,9 @@
+kagglehub==1.0.2
+matplotlib==3.11.1
+missingno==0.5.2
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+seaborn==0.13.2
+sklearn==0.0.post12
+xgboost==3.4.1
